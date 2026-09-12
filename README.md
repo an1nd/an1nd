@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @Anand
-- 👀 on to DeepLearning
-<!---
-AnandR96/AnandR96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Data Engineer, Proficient in Python Scripting and Pandas with strong ability to analyze and resolve data discrepancies efficiently. Passionate about Problem solving and delivering scalable solution
